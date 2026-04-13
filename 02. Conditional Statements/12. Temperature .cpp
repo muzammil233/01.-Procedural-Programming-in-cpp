@@ -3,7 +3,7 @@ using namespace std;
 
 int main ( )
 {
-    int temp;
+    double temp;
     cout<<"Enter Temperature:";
     cin>>temp;
     
